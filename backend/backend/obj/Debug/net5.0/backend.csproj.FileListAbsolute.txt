@@ -1,0 +1,12 @@
+C:\source\dorsavi\backend\backend\bin\Debug\net5.0\backend.deps.json
+C:\source\dorsavi\backend\backend\bin\Debug\net5.0\backend.dll
+C:\source\dorsavi\backend\backend\bin\Debug\net5.0\ref\backend.dll
+C:\source\dorsavi\backend\backend\bin\Debug\net5.0\backend.pdb
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.dll
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\ref\backend.dll
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.pdb
+C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.csprojAssemblyReference.cache

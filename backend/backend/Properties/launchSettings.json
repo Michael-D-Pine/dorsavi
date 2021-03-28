@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "backend": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
