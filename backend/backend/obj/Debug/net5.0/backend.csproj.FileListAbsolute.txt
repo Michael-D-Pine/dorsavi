@@ -10,3 +10,15 @@ C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.dll
 C:\source\dorsavi\backend\backend\obj\Debug\net5.0\ref\backend.dll
 C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.pdb
 C:\source\dorsavi\backend\backend\obj\Debug\net5.0\backend.csprojAssemblyReference.cache
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.deps.json
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.dll
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\ref\backend.dll
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.pdb
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.csprojAssemblyReference.cache
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.csproj.CoreCompileInputs.cache
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.dll
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\ref\backend.dll
+C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.pdb

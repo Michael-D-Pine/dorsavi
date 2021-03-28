@@ -472,7 +472,7 @@
           }
         }
       },
-      "backend/1.0.0": {
+      "dorsavi.backend/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -481,10 +481,10 @@
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
-          "bin/placeholder/backend.dll": {}
+          "bin/placeholder/dorsavi.backend.dll": {}
         },
         "runtime": {
-          "bin/placeholder/backend.dll": {}
+          "bin/placeholder/dorsavi.backend.dll": {}
         }
       }
     }
@@ -1249,7 +1249,7 @@
         "version.txt"
       ]
     },
-    "backend/1.0.0": {
+    "dorsavi.backend/1.0.0": {
       "type": "project",
       "path": "../backend/backend.csproj",
       "msbuildProject": "../backend/backend.csproj"
@@ -1259,30 +1259,29 @@
     "net5.0": [
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Microsoft.Extensions.Hosting >= 5.0.0",
-      "backend >= 1.0.0"
+      "dorsavi.backend >= 1.0.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\michael.pine\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\dorsavi\\backend\\client\\client.csproj",
+      "projectUniqueName": "C:\\Source\\github\\dorsavi\\backend\\client\\client.csproj",
       "projectName": "client",
-      "projectPath": "C:\\source\\dorsavi\\backend\\client\\client.csproj",
+      "projectPath": "C:\\Source\\github\\dorsavi\\backend\\client\\client.csproj",
       "packagesPath": "C:\\Users\\michael.pine\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\dorsavi\\backend\\client\\obj\\",
+      "outputPath": "C:\\Source\\github\\dorsavi\\backend\\client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\michael.pine\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1291,14 +1290,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Source\\github\\dorsavi\\nuget_repo": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\source\\dorsavi\\backend\\backend\\backend.csproj": {
-              "projectPath": "C:\\source\\dorsavi\\backend\\backend\\backend.csproj"
+            "C:\\Source\\github\\dorsavi\\backend\\backend\\backend.csproj": {
+              "projectPath": "C:\\Source\\github\\dorsavi\\backend\\backend\\backend.csproj"
             }
           }
         }

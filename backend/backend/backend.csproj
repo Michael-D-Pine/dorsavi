@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <PackageId>dorsavi.backend</PackageId>
+    <Authors>Michael Pine</Authors>
+    <Company>Pegasus Software Solutions</Company>
   </PropertyGroup>
 
   <ItemGroup>
