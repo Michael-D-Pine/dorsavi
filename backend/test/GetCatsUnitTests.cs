@@ -95,11 +95,6 @@ namespace test
         [TestMethod]
         public async Task GetOwnerWithNullPets()
         {
-            Pet pet = new Pet()
-            {
-                name = "Taffy",
-                type = "Cat"
-            };
             Owner owner = new Owner()
             {
                 age = 50,
@@ -118,5 +113,30 @@ namespace test
 
         }
 
+        [TestMethod]
+        public async Task GetOwnerWithoutACat()
+        {
+            Pet pet = new Pet()
+            {
+                name = "Pluto",
+                type = "Dog"
+            };
+            Owner owner = new Owner()
+            {
+                age = 50,
+                name = "Michael",
+                gender = "Male",
+                pets = new System.Collections.Generic.List<backend.Models.Pet>() { pet }
+            };
+            List<Owner> oneOwnerWithACat = new List<Owner>() { owner };
+
+            var client = GetClient<List<Owner>>(oneOwnerWithACat);
+
+            backend.SensorService service = new backend.SensorService(client);
+            var owners = await service.GetCats();
+
+            Assert.AreEqual(0, owners.Count());
+
+        }
     }
 }
