@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oVssjKYb3JHOWgt4XexhxzROWlk5TGb3/W7dZRUc9oJJlIgYq3eiSb7HzOTcT2ZxVbC1q4FRSC55B/06bgCV1A==",
+  "dgSpecHash": "TVrJd9Bt20YCau6Newxub+2oKiewNE8luz9p/jnxAzeWRNRApF6tMS2usJczitaxGZmUPXJkjF/2K0tDOiiAqQ==",
   "success": true,
   "projectFilePath": "C:\\Source\\github\\dorsavi\\backend\\test\\test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michael.pine\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\michael.pine\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
-    "C:\\Users\\michael.pine\\.nuget\\packages\\dorsavi.backend\\1.0.0\\dorsavi.backend.1.0.0.nupkg.sha512",
+    "C:\\Users\\michael.pine\\.nuget\\packages\\dorsavi.backend\\1.11.0\\dorsavi.backend.1.11.0.nupkg.sha512",
     "C:\\Users\\michael.pine\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\michael.pine\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\michael.pine\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

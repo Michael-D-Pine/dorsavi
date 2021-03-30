@@ -97,7 +97,6 @@ C:\Source\github\dorsavi\backend\test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualS
 C:\Source\github\dorsavi\backend\test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Source\github\dorsavi\backend\test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Source\github\dorsavi\backend\test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.csprojAssemblyReference.cache
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.AssemblyInfo.cs
@@ -107,3 +106,4 @@ C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.dll
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\ref\test.dll
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.pdb
 C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+C:\Source\github\dorsavi\backend\test\obj\Debug\net5.0\test.csprojAssemblyReference.cache

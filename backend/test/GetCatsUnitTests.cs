@@ -138,5 +138,18 @@ namespace test
             Assert.AreEqual(0, owners.Count());
 
         }
+
+        [TestMethod]
+        public void AddTwoIntegers()
+        {
+
+            var client = GetClient<int>(1);
+
+            backend.SensorService service = new backend.SensorService(client);
+            
+            var result = service.AddUsingC(23, 78);
+
+            Assert.AreEqual(23 + 78, result);
+        }
     }
 }

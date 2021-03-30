@@ -14,7 +14,6 @@ C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.deps.json
 C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.dll
 C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\ref\backend.dll
 C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\backend.pdb
-C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.csprojAssemblyReference.cache
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.GeneratedMSBuildEditorConfig.editorconfig
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfoInputs.cache
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.AssemblyInfo.cs
@@ -22,3 +21,5 @@ C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.csproj.CoreCom
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.dll
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\ref\backend.dll
 C:\Source\github\dorsavi\backend\backend\obj\Debug\net5.0\backend.pdb
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\IServiceCollectionExtension.cs
+C:\Source\github\dorsavi\backend\backend\bin\Debug\net5.0\sample.dll

@@ -472,7 +472,7 @@
           }
         }
       },
-      "dorsavi.backend/1.0.0": {
+      "dorsavi.backend/1.9.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -1249,7 +1249,7 @@
         "version.txt"
       ]
     },
-    "dorsavi.backend/1.0.0": {
+    "dorsavi.backend/1.9.0": {
       "type": "project",
       "path": "../backend/backend.csproj",
       "msbuildProject": "../backend/backend.csproj"
@@ -1259,7 +1259,7 @@
     "net5.0": [
       "Microsoft.Extensions.DependencyInjection >= 5.0.1",
       "Microsoft.Extensions.Hosting >= 5.0.0",
-      "dorsavi.backend >= 1.0.0"
+      "dorsavi.backend >= 1.9.0"
     ]
   },
   "packageFolders": {

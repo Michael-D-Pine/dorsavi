@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "backend/1.0.0": {
+      "backend/1.9.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "5.0.1",
           "Microsoft.Extensions.Http": "5.0.0",
@@ -102,7 +102,7 @@
     }
   },
   "libraries": {
-    "backend/1.0.0": {
+    "backend/1.9.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

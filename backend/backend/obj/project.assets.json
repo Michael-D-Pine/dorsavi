@@ -287,7 +287,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.9.0",
     "restore": {
       "projectUniqueName": "C:\\Source\\github\\dorsavi\\backend\\backend\\backend.csproj",
       "projectName": "dorsavi.backend",

@@ -94,3 +94,5 @@ C:\Source\github\dorsavi\backend\client\obj\Debug\net5.0\client.dll
 C:\Source\github\dorsavi\backend\client\obj\Debug\net5.0\ref\client.dll
 C:\Source\github\dorsavi\backend\client\obj\Debug\net5.0\client.pdb
 C:\Source\github\dorsavi\backend\client\obj\Debug\net5.0\client.genruntimeconfig.cache
+C:\Source\github\dorsavi\backend\client\bin\Debug\net5.0\IServiceCollectionExtension.cs
+C:\Source\github\dorsavi\backend\client\bin\Debug\net5.0\sample.dll

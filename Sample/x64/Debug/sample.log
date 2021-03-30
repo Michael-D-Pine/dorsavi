@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  simple.cpp
+  Generating Code...
+     Creating library C:\Source\github\dorsavi\sample\x64\Debug\sample.lib and object C:\Source\github\dorsavi\sample\x64\Debug\sample.exp
+  sample.vcxproj -> C:\Source\github\dorsavi\sample\x64\Debug\sample.dll

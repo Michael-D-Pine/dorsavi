@@ -17,18 +17,19 @@ namespace client
                 services.AddHttpClient<ISensor, SensorService>();
             }).Build();
 
-
-           // await host.RunAsync();
-
             var serviceProvider = new ServiceCollection()
                 .AddHttpClient<ISensor, SensorService>();
-            //.BuildServiceProvider();
 
             var service = host.Services.GetService<ISensor>();
 
-            //var service = serviceProvider. serviceProvider.GetService<ISensor>();
+            Random r = new Random((int)DateTime.Now.Ticks);
 
-            Console.WriteLine(service.AddUsingC(1, 2));
+            int a = r.Next(1, 1000);
+            int b = r.Next(1, 1000);
+
+            Console.WriteLine($"Adding {a} and {b}");
+            Console.WriteLine($"Result {service.AddUsingC(a, b)}");
+
             var owners = await service.GetCats();
 
             owners.ToList().ForEach(o =>

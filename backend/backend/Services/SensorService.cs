@@ -22,9 +22,12 @@ namespace backend
         // depending on security considerations or preferred method of loading
         public const string uri = "https://dorsavicodechallenge.azurewebsites.net/Melbourne";
 
+        [DllImport(@"./sample.dll", CallingConvention = CallingConvention.Cdecl)]
+        public static extern int add(int a, int b);
+
         public int AddUsingC(int a, int b)
         {
-            return a + b;
+            return add(a, b);
         }
 
         public async Task<IEnumerable<Owner>> GetCats()

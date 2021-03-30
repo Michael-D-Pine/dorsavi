@@ -72,7 +72,7 @@
             },
             "dorsavi.backend": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.11.0, )"
             }
           },
           "imports": [

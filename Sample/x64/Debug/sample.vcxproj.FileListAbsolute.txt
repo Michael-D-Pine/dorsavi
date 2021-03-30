@@ -1,0 +1,2 @@
+C:\Source\github\sample\x64\Debug\sample.dll
+C:\Source\github\dorsavi\sample\x64\Debug\sample.dll

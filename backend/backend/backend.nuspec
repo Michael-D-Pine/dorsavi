@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>dorsavi.backend</id>
+    <version>1.20.0</version>
+    <title>dorsavi.backend</title>
+    <authors>Michael Pine</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>dorsavi code challenege backend compoent</description>
+    <releaseNotes>Add net50 dependency</releaseNotes>
+	<contentFiles>
+		<files include="\contentFiles\sample.dll" buildAction="Content" copyToOutput="true" />
+	</contentFiles>
+	<dependencies>
+		<group targetFramework="net5.0">
+			<dependency id="Microsoft.Extensions.DependencyInjection" version="5.0.1" />
+			<dependency id="Microsoft.Extensions.Http" version="5.0.0" />
+			<dependency id="Newtonsoft.Json" version="13.0.1" />
+		</group>	
+	</dependencies>	
+  </metadata>
+</package>

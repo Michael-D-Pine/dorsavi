@@ -29,7 +29,7 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
-      "dorsavi.backend/1.0.0": {
+      "dorsavi.backend/1.11.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "5.0.1",
@@ -1876,13 +1876,15 @@
         "coverlet.collector.nuspec"
       ]
     },
-    "dorsavi.backend/1.0.0": {
-      "sha512": "w9mKdthGZ9TohBTyGKXiHkdEbXvfL8xGb+Se8GZz1ggQ3FILPSOCrwyAUTicq/yb6Qx5Vz4NMUYKpMKInzQ4KA==",
+    "dorsavi.backend/1.11.0": {
+      "sha512": "7NVvOAa/MJ+i99D7eTspu3FH0SyGt7Ifrf5Us/3AuQxhXSOzMM9LRjjY1TS1v3Upbh5XD+l5dT8OF0EQ1HOKcw==",
       "type": "package",
-      "path": "dorsavi.backend/1.0.0",
+      "path": "dorsavi.backend/1.11.0",
       "files": [
         ".nupkg.metadata",
-        "dorsavi.backend.1.0.0.nupkg.sha512",
+        "content/IServiceCollectionExtension.cs",
+        "content/sample.dll",
+        "dorsavi.backend.1.11.0.nupkg.sha512",
         "dorsavi.backend.nuspec",
         "lib/net5.0/backend.dll"
       ]
@@ -6270,7 +6272,7 @@
       "Moq >= 4.16.1",
       "Moq.Contrib.HttpClient >= 1.3.0",
       "coverlet.collector >= 1.3.0",
-      "dorsavi.backend >= 1.0.0"
+      "dorsavi.backend >= 1.11.0"
     ]
   },
   "packageFolders": {
@@ -6346,7 +6348,7 @@
           },
           "dorsavi.backend": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.11.0, )"
           }
         },
         "imports": [
